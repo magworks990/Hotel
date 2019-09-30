@@ -1,0 +1,6 @@
+com\travelers\tests\BaseSeleniumTest.class
+com\travelers\pagess\ResultPage.class
+annotations\TestListener.class
+com\travelers\pages\HomePage.class
+com\travelers\pages\helpers\SeleniumHelper.class
+com\travelers\tests\SearchHotelTest.class
